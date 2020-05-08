@@ -69,4 +69,5 @@ c) Is your algorithm fully correct? Justify your answer in 3 sentences or less (
 
 ## Problem #2
 Find the time complexity of ALG .
-https://github.com/rogerlorelli663/MDtoPDF/blob/master/Capture.PNG
+![alt text](https://github.com/rogerlorelli663/MDtoPDF/blob/master/Capture.PNG)
+
